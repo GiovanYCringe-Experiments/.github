@@ -12,7 +12,7 @@ These are the trees needed for your build
 
 # Kernel tree
 
-[Kernel](https://github.com/GiovanYCringe-Experiments/kernel_a50)
+[Kernel](https://github.com/GiovanYCringe-Experiments/android_kernel_samsung_a50)
 
 # Hardware Samsung
 
