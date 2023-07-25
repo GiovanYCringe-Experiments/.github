@@ -1,6 +1,6 @@
-# Welcome to my Organization 
+# Welcome to my Organization
 
-These are the trees needed for your build 
+These are the trees needed for your build (qpr3 broke everything)
 
 # UnCommon device tree
 
